@@ -1,2 +1,2 @@
-Hello Wored
+Hello World
 Hello GitHub
